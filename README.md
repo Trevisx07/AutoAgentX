@@ -240,7 +240,7 @@ docker-compose up --build
 *AI/ML Engineer • Full-Stack Developer • Problem Solver*
 
 📧 **hetkumarpatel07@gmail.com**  
-💼 **[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/het-patel-65a272252/))** • 🐙 **[GitHub](https://github.com/Trevisx07)**
+💼 **[LinkedIn](https://www.linkedin.com/in/het-patel-65a272252/))** • 🐙 **[GitHub](https://github.com/Trevisx07)**
 
 ---
 
