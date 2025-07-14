@@ -14,7 +14,6 @@
 
 ---
 
-## ⭐ **Why Recruiters Love This Project**
 
 ```mermaid
 graph TD
